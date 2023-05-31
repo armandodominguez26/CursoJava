@@ -25,7 +25,7 @@ public class Coche {
 	
 	public Coche() {
 		
-		ruedas=15;
+		ruedas=6;
 		largo=2000;
 		ancho=300;
 		motor=1600;
